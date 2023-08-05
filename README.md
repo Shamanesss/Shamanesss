@@ -28,3 +28,4 @@
 </div>
 
 <br/>
+<img src="https://github-readme-stats.vercel.app/api?username=Shamanesss&show_icons=true&count_private=true&hide_border=true"  style="width: 45%" />
