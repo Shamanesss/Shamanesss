@@ -29,5 +29,5 @@
 
 <br/>
 <hr>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shamanesss&show_icons=true&theme=radical&locale=en&layout=compact" alt="Shamanesss" />
+
 <img src="https://github-readme-stats.vercel.app/api?username=Shamanesss&show_icons=true&count_private=true&hide_border=true"  style="width: 45%" />
