@@ -34,6 +34,7 @@
 <a href="https://docs.pytest.org/en/7.4.x/" target="_blank"><img style="margin: 10px" src="https://docs.pytest.org/en/latest/_static/pytest_logo_curves.svg" alt="Pytest" height="40" /></a>
 <a href="https://supabase.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" height="40" /></a>
 <a href="https://www.puppet.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/puppet/puppet-icon.svg" alt="puppet" height="40" /></a>
+<a href="https://isocpp.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="40" /></a>
 
 
 ### Tools:
