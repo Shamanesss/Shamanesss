@@ -37,7 +37,11 @@
 
 <a href="https://supabase.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" height="40" /></a>
 <a href="https://www.puppet.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/puppet/puppet-icon.svg" alt="puppet" height="40" /></a>
-<a href="https://isocpp.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="40" /></a>
+<a href="https://isocpp.org/" target="_blank">
+    <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" height="40" />
+</a>
+
+
 
 
 ### Tools:
@@ -45,6 +49,8 @@
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="40" /></a>
 <a href="https://trello.com/home" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="trello" height="40" /></a>
 <a href="https://slack.com/intl/es-es/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="slack" height="40" /></a>
+<a href="https://discord.com/" target="_blank"> <img style="margin: 10px" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="Discord" height="40" /></a>
+
 </div>
 
 <br/>
