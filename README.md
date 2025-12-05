@@ -9,6 +9,7 @@
 <hr>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shamanesss&show_icons=true&theme=dark&locale=en&layout=compact" alt="Shamanesss" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shamanesss&layout=compact&hide=html,css" />
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
 
 
 <a href="https://codepen.io/NoitaHexe" target="_blank">
