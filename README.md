@@ -7,7 +7,7 @@
 
 
 <hr>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shamanesss&show_icons=true&theme=radical&locale=en&layout=compact" alt="Shamanesss" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shamanesss&show_icons=true&theme=dark&locale=en&layout=compact" alt="Shamanesss" />
 
 <a href="https://codepen.io/NoitaHexe" target="_blank">
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
