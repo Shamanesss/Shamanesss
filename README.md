@@ -60,11 +60,15 @@
 
 
 <br/>
-<p align="left">
-  <a href="https://github.com/Shamanesss/Shamanesss">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Shamanesss&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shamanesss&theme=gruvbox&hide_border=true" />
-  </a>
-</p>
+
 <br>
+
+
+### ⚙️ &nbsp;GitHub Analytics
+<p>
+<a href="https://github.com/Shamanesss">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shamanesss&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+
+</a>
+</p>
 
